@@ -1,4 +1,5 @@
-# minishop-using-flask-microservices i.e Containerized Flask microservices using Docker,, Kubernetes,  CI/CD and GitHub Actions
+# minishop-using-flask-microservices 
+# Containerized Flask microservices using Docker,, Kubernetes,  CI/CD and GitHub Actions
 
 # 🧱 Flask Microservices Architecture
 
