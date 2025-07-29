@@ -1,4 +1,5 @@
 # minishop-using-flask-microservices 
+
 # Containerized Flask microservices using Docker,, Kubernetes,  CI/CD and GitHub Actions
 
 # 🧱 Flask Microservices Architecture
@@ -27,4 +28,19 @@ This project demonstrates:
 ├── k8s/                 # Kubernetes deployment files
 └── .github/workflows/   # GitHub Actions CI/CD workflow
 
-Containerized Flask microservices using Docker,, Kubernetes,  CI/CD and GitHub Actions
+
+⚙️ Technologies Used
+
+Python 3.10
+
+Flask
+
+Docker & Docker Compose
+
+Kubernetes (Minikube or Docker Desktop)
+
+MongoDB (for user service)
+
+PostgreSQL (for product service)
+
+GitHub Actions (CI/CD)
